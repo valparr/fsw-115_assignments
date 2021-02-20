@@ -1,0 +1,89 @@
+{
+  "menu": [
+    {
+      "appetizers": {
+        "name of item": "Calamari",
+        "ingredients": [
+          "crispy calamari",
+          "pepperoncini",
+          "lemon aioli"
+        ],
+        "description": "crispy calamari with a side of pepperoncini and drizzled with a lemon aioli."
+      }
+    },
+    {
+      "name of item": "Spinach & Artichoke Dip",
+      "ingredients": [
+        "creamy spinach",
+        "roasted garlic",
+        "artichoke",
+        "parmesan flatbread"
+      ],
+      "description": "Dip made with creamy spinach, roasted garlic, and delicious artichokes. Served with parmesan flatbread baked to a crisp."
+    },
+    {
+      "cold sandwiches": {
+        "name of item": "Garden-Style Club",
+        "ingredients": [
+          "Slow Roasted Turkey Breast",
+          "Smoked Uncured Bacon",
+          "whole wheat bread",
+          "tomato",
+          "cucumbers",
+          "lettuce",
+          "mayo"
+        ],
+        "description": "This Garden-Style Club Sandwich includes crunchy cucumbers, sliced tomatoes, turkey and bacon."
+      }
+    },
+    {
+      "name of item": "Cold Roast Beef Sandwich",
+      "ingredients": [
+        "Amish Bread",
+        "round roast",
+        "beefsteak tomatoes",
+        " arugula",
+        "red onion",
+        "horseradish chive cream cheese"
+      ],
+      "description": "The best roast beef sandwich starts with the bread (a soft, sturdy homemade boule) thinly sliced roast beef and a savory horseradish cheese spread, plus your favorite veggies."
+    },
+    {
+      "hot sandwiches": {
+        "name of item": "Chicken Parm Sandwich",
+        "ingredients": [
+          "crispy chicken breast",
+          "spicy marinara",
+          "fried provolone cheese",
+          "parmesan cheese",
+          "toasted brioche bun",
+          "herb cheese"
+        ],
+        "description": "New Item!"
+      }
+    },
+    {
+      "name of item": "BBQ Pulled Pork",
+      "ingredients": [
+        "smoked pulled pork",
+        "bacon onion jam",
+        "bourbon bbq sauce",
+        "slaw",
+        "crispy onion strings",
+        "toasted brioche bun"
+      ],
+      "description": "New Recipe!"
+    },
+    {
+      "desserts": {
+        "name of item": "Red Velvet Cake",
+        "ingredients": [
+          "red chocolate cake",
+          "cream cheese icing",
+          "crush pecans"
+        ],
+        "description": "Three moist layers of stunning Red Velvet filled and topped silky cream cheese icing and finished with melt-in-your-mouth white and dark chocolate shavings and white chocolate drizzle; this cake is sure to be your new favorite."
+      }
+    }
+  ]
+}
