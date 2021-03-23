@@ -1,0 +1,39 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #3D7DCA;
+}
+
+
+
+#myget-btn {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #FFCB05;
+    border-radius: 10px;
+    margin-left: 43%;
+
+}
+
+#pokemon-objects{
+    margin: 0;
+    
+
+}
+p {
+    text-align: center;
+    margin-left: 5%;
+}
+h1 {
+    text-align: center;
+    color: black;
+
+    
+}
+
+#pokemonList{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    
+}
