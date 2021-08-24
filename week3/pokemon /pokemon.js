@@ -3,7 +3,7 @@ const getBtn = document.getElementById('myget-btn');
 
 const getData = () => {
     const xhr = new XMLHttpRequest();
-    xhr.open('GET', 'https://api.vschool.io/pokemon');
+    xhr.open("GET", "https://pokeapi.co/api/v2/");
 
     xhr.onload = () => {
         const data = JSON.parse(xhr.response);
